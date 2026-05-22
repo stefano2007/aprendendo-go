@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/stefano2007/aprendendo-go/domain"
-	"github.com/stefano2007/aprendendo-go/dto"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/domain"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/dto"
 )
 
 type albumService struct {

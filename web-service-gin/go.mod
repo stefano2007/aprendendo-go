@@ -1,4 +1,4 @@
-module github.com/stefano2007/aprendendo-go
+module github.com/stefano2007/aprendendo-go/web-service-gin
 
 go 1.26.3
 

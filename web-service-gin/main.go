@@ -3,9 +3,9 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/stefano2007/aprendendo-go/controller"
-	"github.com/stefano2007/aprendendo-go/repository"
-	"github.com/stefano2007/aprendendo-go/service"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/controller"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/repository"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/service"
 )
 
 /*

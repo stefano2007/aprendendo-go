@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"github.com/stefano2007/aprendendo-go/dto"
-	"github.com/stefano2007/aprendendo-go/service"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/dto"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/service"
 
 	"net/http"
 

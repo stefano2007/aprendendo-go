@@ -3,7 +3,7 @@ package repository
 import (
 	"fmt"
 
-	"github.com/stefano2007/aprendendo-go/domain"
+	"github.com/stefano2007/aprendendo-go/web-service-gin/domain"
 )
 
 type InMemoryAlbumRepository struct {
